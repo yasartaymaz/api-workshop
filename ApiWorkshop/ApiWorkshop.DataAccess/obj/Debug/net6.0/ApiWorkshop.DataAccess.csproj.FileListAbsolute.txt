@@ -1,0 +1,17 @@
+C:\Users\YasarTaymaz\source\repos\api-workshop\ApiWorkshop\ApiWorkshop.DataAccess\bin\Debug\net6.0\ApiWorkshop.DataAccess.deps.json
+C:\Users\YasarTaymaz\source\repos\api-workshop\ApiWorkshop\ApiWorkshop.DataAccess\bin\Debug\net6.0\ApiWorkshop.DataAccess.dll
+C:\Users\YasarTaymaz\source\repos\api-workshop\ApiWorkshop\ApiWorkshop.DataAccess\bin\Debug\net6.0\ref\ApiWorkshop.DataAccess.dll
+C:\Users\YasarTaymaz\source\repos\api-workshop\ApiWorkshop\ApiWorkshop.DataAccess\bin\Debug\net6.0\ApiWorkshop.DataAccess.pdb
+C:\Users\YasarTaymaz\source\repos\api-workshop\ApiWorkshop\ApiWorkshop.DataAccess\obj\Debug\net6.0\ApiWorkshop.DataAccess.csproj.AssemblyReference.cache
+C:\Users\YasarTaymaz\source\repos\api-workshop\ApiWorkshop\ApiWorkshop.DataAccess\obj\Debug\net6.0\ApiWorkshop.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YasarTaymaz\source\repos\api-workshop\ApiWorkshop\ApiWorkshop.DataAccess\obj\Debug\net6.0\ApiWorkshop.DataAccess.AssemblyInfoInputs.cache
+C:\Users\YasarTaymaz\source\repos\api-workshop\ApiWorkshop\ApiWorkshop.DataAccess\obj\Debug\net6.0\ApiWorkshop.DataAccess.AssemblyInfo.cs
+C:\Users\YasarTaymaz\source\repos\api-workshop\ApiWorkshop\ApiWorkshop.DataAccess\obj\Debug\net6.0\ApiWorkshop.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\YasarTaymaz\source\repos\api-workshop\ApiWorkshop\ApiWorkshop.DataAccess\obj\Debug\net6.0\ApiWorkshop.DataAccess.dll
+C:\Users\YasarTaymaz\source\repos\api-workshop\ApiWorkshop\ApiWorkshop.DataAccess\obj\Debug\net6.0\ref\ApiWorkshop.DataAccess.dll
+C:\Users\YasarTaymaz\source\repos\api-workshop\ApiWorkshop\ApiWorkshop.DataAccess\obj\Debug\net6.0\ApiWorkshop.DataAccess.pdb
+C:\Users\YasarTaymaz\source\repos\api-workshop\ApiWorkshop\ApiWorkshop.DataAccess\bin\Debug\net6.0\ApiWorkshop.Core.dll
+C:\Users\YasarTaymaz\source\repos\api-workshop\ApiWorkshop\ApiWorkshop.DataAccess\bin\Debug\net6.0\ApiWorkshop.Entities.dll
+C:\Users\YasarTaymaz\source\repos\api-workshop\ApiWorkshop\ApiWorkshop.DataAccess\bin\Debug\net6.0\ApiWorkshop.Core.pdb
+C:\Users\YasarTaymaz\source\repos\api-workshop\ApiWorkshop\ApiWorkshop.DataAccess\bin\Debug\net6.0\ApiWorkshop.Entities.pdb
+C:\Users\YasarTaymaz\source\repos\api-workshop\ApiWorkshop\ApiWorkshop.DataAccess\obj\Debug\net6.0\ApiWorkshop.DataAccess.csproj.CopyComplete

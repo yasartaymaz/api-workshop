@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ApiWorkshop.Core.Entities
 {
-    public class Entity
+    public class BaseEntity
     {
         public int Id { get; set; }
         public DateTime DatetimeInserted { get; set; }

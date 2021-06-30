@@ -1,0 +1,15 @@
+C:\Users\YasarTaymaz\source\repos\api-workshop\ApiWorkshop\ApiWorkshop.Entities\obj\Debug\net6.0\ApiWorkshop.Entities.csproj.AssemblyReference.cache
+C:\Users\YasarTaymaz\source\repos\api-workshop\ApiWorkshop\ApiWorkshop.Entities\obj\Debug\net6.0\ApiWorkshop.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YasarTaymaz\source\repos\api-workshop\ApiWorkshop\ApiWorkshop.Entities\obj\Debug\net6.0\ApiWorkshop.Entities.AssemblyInfoInputs.cache
+C:\Users\YasarTaymaz\source\repos\api-workshop\ApiWorkshop\ApiWorkshop.Entities\obj\Debug\net6.0\ApiWorkshop.Entities.AssemblyInfo.cs
+C:\Users\YasarTaymaz\source\repos\api-workshop\ApiWorkshop\ApiWorkshop.Entities\obj\Debug\net6.0\ApiWorkshop.Entities.csproj.CoreCompileInputs.cache
+C:\Users\YasarTaymaz\source\repos\api-workshop\ApiWorkshop\ApiWorkshop.Entities\bin\Debug\net6.0\ApiWorkshop.Entities.deps.json
+C:\Users\YasarTaymaz\source\repos\api-workshop\ApiWorkshop\ApiWorkshop.Entities\bin\Debug\net6.0\ApiWorkshop.Entities.dll
+C:\Users\YasarTaymaz\source\repos\api-workshop\ApiWorkshop\ApiWorkshop.Entities\bin\Debug\net6.0\ref\ApiWorkshop.Entities.dll
+C:\Users\YasarTaymaz\source\repos\api-workshop\ApiWorkshop\ApiWorkshop.Entities\bin\Debug\net6.0\ApiWorkshop.Entities.pdb
+C:\Users\YasarTaymaz\source\repos\api-workshop\ApiWorkshop\ApiWorkshop.Entities\bin\Debug\net6.0\ApiWorkshop.Core.dll
+C:\Users\YasarTaymaz\source\repos\api-workshop\ApiWorkshop\ApiWorkshop.Entities\bin\Debug\net6.0\ApiWorkshop.Core.pdb
+C:\Users\YasarTaymaz\source\repos\api-workshop\ApiWorkshop\ApiWorkshop.Entities\obj\Debug\net6.0\ApiWorkshop.Entities.csproj.CopyComplete
+C:\Users\YasarTaymaz\source\repos\api-workshop\ApiWorkshop\ApiWorkshop.Entities\obj\Debug\net6.0\ApiWorkshop.Entities.dll
+C:\Users\YasarTaymaz\source\repos\api-workshop\ApiWorkshop\ApiWorkshop.Entities\obj\Debug\net6.0\ref\ApiWorkshop.Entities.dll
+C:\Users\YasarTaymaz\source\repos\api-workshop\ApiWorkshop\ApiWorkshop.Entities\obj\Debug\net6.0\ApiWorkshop.Entities.pdb

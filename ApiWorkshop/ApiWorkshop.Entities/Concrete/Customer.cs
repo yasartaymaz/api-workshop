@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ApiWorkshop.Entities.Concrete
 {
-    public class Customer : Entity, IEntity
+    public class Customer : BaseEntity, IEntity
     {
         public string Name { get; set; }
     }

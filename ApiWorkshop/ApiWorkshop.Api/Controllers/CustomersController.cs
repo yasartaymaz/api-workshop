@@ -1,4 +1,5 @@
-﻿using ApiWorkshop.Entities.Concrete;
+﻿using ApiWorkshop.Business.Abstract;
+using ApiWorkshop.Entities.Concrete;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System;
@@ -12,10 +13,17 @@ namespace ApiWorkshop.Api.Controllers
     [ApiController]
     public class CustomersController : ControllerBase
     {
-        public IActionResult Index()
+        private readonly ICustomerService _customerService;
+
+        public CustomersController(ICustomerService customerService)
         {
-            Customer entity = new Customer();
-            return Ok();
+            _customerService = customerService;
+        }
+
+        [HttpGet]
+        public List<Customer> Get()
+        {
+            return _customerService.GetList();
         }
     }
 }

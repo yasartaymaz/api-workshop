@@ -31,6 +31,9 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
+              "C:\\Users\\YasarTaymaz\\source\\repos\\api-workshop\\ApiWorkshop\\ApiWorkshop.Business\\ApiWorkshop.Business.csproj": {
+                "projectPath": "C:\\Users\\YasarTaymaz\\source\\repos\\api-workshop\\ApiWorkshop\\ApiWorkshop.Business\\ApiWorkshop.Business.csproj"
+              },
               "C:\\Users\\YasarTaymaz\\source\\repos\\api-workshop\\ApiWorkshop\\ApiWorkshop.Entities\\ApiWorkshop.Entities.csproj": {
                 "projectPath": "C:\\Users\\YasarTaymaz\\source\\repos\\api-workshop\\ApiWorkshop\\ApiWorkshop.Entities\\ApiWorkshop.Entities.csproj"
               }
@@ -47,9 +50,13 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[5.6.3, )"
+              "version": "[6.1.4, )"
             }
           },
           "imports": [
@@ -66,6 +73,77 @@
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
             },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-preview.5.21302.13\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\YasarTaymaz\\source\\repos\\api-workshop\\ApiWorkshop\\ApiWorkshop.Business\\ApiWorkshop.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\YasarTaymaz\\source\\repos\\api-workshop\\ApiWorkshop\\ApiWorkshop.Business\\ApiWorkshop.Business.csproj",
+        "projectName": "ApiWorkshop.Business",
+        "projectPath": "C:\\Users\\YasarTaymaz\\source\\repos\\api-workshop\\ApiWorkshop\\ApiWorkshop.Business\\ApiWorkshop.Business.csproj",
+        "packagesPath": "C:\\Users\\YasarTaymaz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\YasarTaymaz\\source\\repos\\api-workshop\\ApiWorkshop\\ApiWorkshop.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\YasarTaymaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\YasarTaymaz\\source\\repos\\api-workshop\\ApiWorkshop\\ApiWorkshop.DataAccess\\ApiWorkshop.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\YasarTaymaz\\source\\repos\\api-workshop\\ApiWorkshop\\ApiWorkshop.DataAccess\\ApiWorkshop.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[6.2.0, )"
+            },
+            "Autofac.Extras.DynamicProxy": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
@@ -112,6 +190,142 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Autofac.Extras.DynamicProxy": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[10.2.3, )"
+            },
+            "MailKit": {
+              "target": "Package",
+              "version": "[2.13.0, )"
+            },
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Http.Extensions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0-preview.5.21301.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.0-preview.5.21301.9, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[6.0.0-preview.5.21301.5, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0-preview.5.21301.5, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[6.0.0-preview.5.21301.5, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[6.0.0-preview.5.21301.5, )"
+            },
+            "MimeKit": {
+              "target": "Package",
+              "version": "[2.13.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[6.0.0-preview4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-preview.5.21302.13\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\YasarTaymaz\\source\\repos\\api-workshop\\ApiWorkshop\\ApiWorkshop.DataAccess\\ApiWorkshop.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\YasarTaymaz\\source\\repos\\api-workshop\\ApiWorkshop\\ApiWorkshop.DataAccess\\ApiWorkshop.DataAccess.csproj",
+        "projectName": "ApiWorkshop.DataAccess",
+        "projectPath": "C:\\Users\\YasarTaymaz\\source\\repos\\api-workshop\\ApiWorkshop\\ApiWorkshop.DataAccess\\ApiWorkshop.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\YasarTaymaz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\YasarTaymaz\\source\\repos\\api-workshop\\ApiWorkshop\\ApiWorkshop.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\YasarTaymaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\YasarTaymaz\\source\\repos\\api-workshop\\ApiWorkshop\\ApiWorkshop.Core\\ApiWorkshop.Core.csproj": {
+                "projectPath": "C:\\Users\\YasarTaymaz\\source\\repos\\api-workshop\\ApiWorkshop\\ApiWorkshop.Core\\ApiWorkshop.Core.csproj"
+              },
+              "C:\\Users\\YasarTaymaz\\source\\repos\\api-workshop\\ApiWorkshop\\ApiWorkshop.Entities\\ApiWorkshop.Entities.csproj": {
+                "projectPath": "C:\\Users\\YasarTaymaz\\source\\repos\\api-workshop\\ApiWorkshop\\ApiWorkshop.Entities\\ApiWorkshop.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0-preview.5.21301.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.0-preview.5.21301.9, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[6.0.0-preview4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -1,0 +1,12 @@
+C:\Users\YasarTaymaz\source\repos\api-workshop\ApiWorkshop\ApiWorkshop.Core\obj\Debug\net6.0\ApiWorkshop.Core.csproj.AssemblyReference.cache
+C:\Users\YasarTaymaz\source\repos\api-workshop\ApiWorkshop\ApiWorkshop.Core\obj\Debug\net6.0\ApiWorkshop.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YasarTaymaz\source\repos\api-workshop\ApiWorkshop\ApiWorkshop.Core\obj\Debug\net6.0\ApiWorkshop.Core.AssemblyInfoInputs.cache
+C:\Users\YasarTaymaz\source\repos\api-workshop\ApiWorkshop\ApiWorkshop.Core\obj\Debug\net6.0\ApiWorkshop.Core.AssemblyInfo.cs
+C:\Users\YasarTaymaz\source\repos\api-workshop\ApiWorkshop\ApiWorkshop.Core\obj\Debug\net6.0\ApiWorkshop.Core.csproj.CoreCompileInputs.cache
+C:\Users\YasarTaymaz\source\repos\api-workshop\ApiWorkshop\ApiWorkshop.Core\bin\Debug\net6.0\ApiWorkshop.Core.deps.json
+C:\Users\YasarTaymaz\source\repos\api-workshop\ApiWorkshop\ApiWorkshop.Core\bin\Debug\net6.0\ApiWorkshop.Core.dll
+C:\Users\YasarTaymaz\source\repos\api-workshop\ApiWorkshop\ApiWorkshop.Core\bin\Debug\net6.0\ref\ApiWorkshop.Core.dll
+C:\Users\YasarTaymaz\source\repos\api-workshop\ApiWorkshop\ApiWorkshop.Core\bin\Debug\net6.0\ApiWorkshop.Core.pdb
+C:\Users\YasarTaymaz\source\repos\api-workshop\ApiWorkshop\ApiWorkshop.Core\obj\Debug\net6.0\ApiWorkshop.Core.dll
+C:\Users\YasarTaymaz\source\repos\api-workshop\ApiWorkshop\ApiWorkshop.Core\obj\Debug\net6.0\ref\ApiWorkshop.Core.dll
+C:\Users\YasarTaymaz\source\repos\api-workshop\ApiWorkshop\ApiWorkshop.Core\obj\Debug\net6.0\ApiWorkshop.Core.pdb
